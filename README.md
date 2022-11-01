@@ -32,3 +32,11 @@
 - Currently dont have much experience with UI/UX but would love to explore since i do find it interesting.
 
 ## Screenshots / Recording of the app :
+
+
+
+https://user-images.githubusercontent.com/97686433/199322074-78b510b0-f88c-49ca-b42e-486efa0b1979.mp4
+
+
+
+
