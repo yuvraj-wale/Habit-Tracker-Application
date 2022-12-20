@@ -1,11 +1,11 @@
-# IRIS_2022_Yuvraj_Wale_211EE262
+# Habit Tracker app
 
 ## List of implemented features :
-- implemented login and aign in using firebase aunthentication.
+- implemented login and aign in using `firebase aunthentication`.
 - added the habit-tracker page where users can add, edit and delete habits and even tick  the habits that are completed for the day.
-- added a heatmap which shows the data of completed habits based on how many were completed on a particular day thus showcasing basicaly a productivity chart.
+- added a `heatmap` which shows the data of completed habits based on how many were completed on a particular day thus showcasing basicaly a productivity chart.
 - also added a UI for the profile page which could be used in future for log out or accesing settings.
-- implemented hive database for storing data localy
+- implemented `hive` database for storing data localy
 
 ## List of non-implemented/planned features :
 - to complete the profile page and make it responive by adding logic and aldo features like logout options, settings options and even night mode.
@@ -14,6 +14,7 @@
 - to improve the UI of the app and add animations like changing of color of a task on long pressing a habit checkbox.
 - to implement data backup feature using firebase.
 - also to give more response in the login and sign up pages for instances a error alert box for invalid password or email.
+- to add a creative name and logo to the app and create an identity. 
 
 ## List of known bugs :
 - no known bugs
